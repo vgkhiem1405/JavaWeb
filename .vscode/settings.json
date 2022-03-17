@@ -1,6 +1,8 @@
 {
   "java.project.referencedLibraries": [
     "lib/**/*.jar",
-    "c:\\Users\\Khiem\\Downloads\\postgresql-42.3.3.jar"
+    "c:\\Users\\Khiem\\Downloads\\postgresql-42.3.3.jar",
+    "c:\\Users\\vgkhiem\\Downloads\\postgresql-42.3.3.jar",
+    "c:\\Users\\vgkhiem\\Downloads\\servlet-api.jar"
   ]
 }
